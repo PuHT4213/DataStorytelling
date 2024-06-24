@@ -1,0 +1,349 @@
+body {
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.fig_dyx {
+width: 800px;
+height: 600px;
+margin: 0 auto;
+}
+.title_dyx {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+.highlight_dyx {
+    color: red;
+    font-size: 36px;
+}.highlight_dyx2 {
+    color: red;
+    font-size: 20px;
+}
+.text_dyx {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+.title_2{
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "黑体", Arial, sans-serif;
+
+}
+
+/* pht */
+.text_pht {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    margin: 0;
+}
+.title_pht {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+.highlight_pht {
+    color: red;
+    font-size: 36px;
+}
+.container_pht {
+    margin: 20px auto;
+    width: 80%;
+}
+.full-width-img_pht {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    /* 居中 */
+    display: block;
+    margin: auto;
+}
+
+.carousel_pht {
+    position: relative;
+    max-width: 800px;
+    margin: auto;
+}
+.carousel_pht img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.carousel_pht img.active {
+    opacity: 1;
+    position: relative;
+}
+.carousel_pht .prev, .carousel_pht .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    user-select: none;
+    z-index: 1;
+}
+.carousel_pht .prev {
+    left: 0;
+    border-radius: 0 3px 3px 0;
+}
+.carousel_pht .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* jyx&ztl */
+
+/* 图片样式 */
+.img_ztl{
+    width:60%;
+    height:40%;
+    margin-left:20%;
+}
+/* 普通段落的宋体字 */
+.text_ztl{
+    color:white;
+    font-family: 宋体;
+    font-size: 16px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+/* 案例使用的楷体字 */
+.case_ztl{
+    color:white;
+    font-family: 楷体;
+    font-size: 16px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* wxy */
+.part3{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.timelinewxy {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    padding: 40px 0;
+}
+
+.timelinewxy::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: darkgray;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.timelinewxy::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 4px solid darkgray;
+    border-radius: 50%;
+    background-color: #fff;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.timeline-itemwxy {
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px 0;
+    position: relative;
+    width: 40%;
+    left: 50%;
+    margin-right: 0%;
+    /* 增加右边的边距 */
+    transform: translateX(30%);
+}
+
+.timeline-itemwxy:nth-child(odd) {
+    justify-content: flex-start;
+    left: 0;
+    transform: translateX(-30%);
+}
+
+.timeline-itemwxy:nth-child(even) {
+    justify-content: flex-start;
+    /* left: 0; */
+    margin-top: -15%;
+    transform: translateX(55%);
+}
+
+/* 调整除了第一个之外的奇数个 timeline-item 的位置 */
+.timeline-itemwxy:nth-of-type(odd):not(:first-of-type) {
+    margin-top: -15%;
+    /* 修改这个值以调整位置 */
+}
+
+.timeline-contentwxy {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.timeline-contentwxy h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.timeline-contentwxy p {
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+.timeline-contentwxy img {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+}
+
+.timeline-itemwxy::before,
+.timeline-itemwxy::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    top: 20px;
+    /* 顶部对齐 */
+    transform: translateY(-50%);
+    border-radius: 50%;
+}
+
+.timeline-itemwxy::before {
+    width: 28px;
+    height: 28px;
+    background-color: #fff;
+    border: 1px solid darkgray;
+}
+
+.timeline-itemwxy::after {
+    width: 25px;
+    height: 25px;
+    background-color: #8FB1B6;
+    /* 你可以根据需要调整颜色 */
+}
+
+.timeline-itemwxy:nth-child(odd)::before {
+    right: -59%;
+}
+
+.timeline-itemwxy:nth-child(odd)::after {
+    right: -58.25%;
+}
+
+.timeline-itemwxy:nth-child(even)::before {
+    left: -59%;
+}
+
+.timeline-itemwxy:nth-child(even)::after {
+    left: -58.25%;
+}
+
+/* Adding the horizontal line */
+.timeline-itemwxy .linewxy {
+    content: '';
+    position: absolute;
+    top: 0%;
+    transform: translateX(222%);
+    width: 50%;
+    height: 2px;
+    background-color: darkgray;
+    /* Adjust color as needed */
+}
+
+.timeline-itemwxy .linewxy::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    background-color: darkgray;
+    /* Adjust color as needed */
+    border-radius: 50%;
+}
+
+.timeline-itemwxy:nth-child(odd) .linewxy {
+    left: -10%;
+    /* Adjust position as needed */
+}
+
+.timeline-itemwxy:nth-child(even) .linewxy {
+    right: 212%;
+    /* Adjust position as needed */
+}
+
+.timeline-itemwxy:nth-child(odd) .linewxy::after {
+    right: 100%;
+    /* Adjust position as needed */
+}
+
+.timeline-itemwxy:nth-child(even) .linewxy::after {
+    left: 100%;
+    /* Adjust position as needed */
+}
+        /* 世界卫生组织在行动 */
+        .title-acitonwxy {
+            /* font-size: 40px; */
+            justify-content: center;
+            text-align: center;
+            bottom: 20px;
+        }
+
+        #messagewxy {
+            display: none;
+            position: absolute;
+            top: 100px;
+            left: 50px;
+            background-color: #a2ce72;
+            padding: 10px;
+            border: 1px solid black;
+            color: white;
+            width: 500px;
+            font-size: 16px;
+        }
+
+        .wxy_svg {
+            display: block;
+            justify-content: center;
+            margin: auto;
+            width: 1300px;
+            margin-top: -180px;
+        }
+
+        .text_wordswxy {
+            font-size: 18px;
+            text-align: center;
+            margin: 0;
+        }
+        img {
+            width: 80%;
+            display: block;
+            margin: 0 auto;
+        }

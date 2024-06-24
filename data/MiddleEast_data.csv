@@ -1,0 +1,462 @@
+Year,Country of Origin (ISO),Country of Origin,Country of Resettlement (ISO),Country of Resettlement,Female 0-17,Female 18-59,Female 60+,Female (unknown age),Female Total,Male 0-17,Male 18-59,Male 60+,Male (unknown age),Male Total,Other/Unknown,Grand Total
+2017,SOM,Somalia,FIN,Finland,7,4,0,0,11,1,2,0,0,3,0,14
+2017,IRQ,Iraq,MCO,Monaco,3,7,1,0,11,9,7,3,0,19,0,30
+2017,IRQ,Iraq,AUS,Australia,3,14,1,0,18,18,10,1,0,29,0,47
+2017,SYR,Syrian Arab Rep.,NOR,Norway,816,573,22,0,1411,1015,567,9,0,1591,0,3002
+2017,IRQ,Iraq,USA,United States of America,362,391,42,0,795,439,437,27,0,903,0,1698
+2017,SYR,Syrian Arab Rep.,ESP,Spain,334,279,4,0,617,448,297,7,0,752,0,1369
+2017,AFG,Afghanistan,FRA,France,0,1,0,0,1,1,0,0,0,1,0,2
+2017,IRQ,Iraq,IRL,Ireland,0,2,0,0,2,0,3,0,0,3,0,5
+2017,SYR,Syrian Arab Rep.,SVN,Slovenia,19,13,1,0,33,20,13,1,0,34,0,67
+2017,IRQ,Iraq,NOR,Norway,0,3,0,0,3,2,3,0,0,5,0,8
+2017,SYR,Syrian Arab Rep.,CHE,Switzerland,339,273,11,0,623,396,281,7,0,684,0,1307
+2017,IRQ,Iraq,ISL,Iceland,13,7,1,0,21,7,7,1,0,15,0,36
+2017,IRQ,Iraq,CAN,Canada,80,104,16,0,200,91,99,11,0,201,0,401
+2017,IRQ,Iraq,CHE,Switzerland,0,1,0,0,1,0,0,0,0,0,0,1
+2017,AFG,Afghanistan,AUS,Australia,193,203,11,0,407,173,238,8,0,419,0,826
+2017,SYR,Syrian Arab Rep.,ISL,Iceland,4,4,0,0,8,8,5,0,0,13,0,21
+2017,SOM,Somalia,NOR,Norway,2,2,0,0,4,4,1,0,0,5,0,9
+2017,AFG,Afghanistan,USA,United States of America,204,197,11,0,412,217,199,12,0,428,0,840
+2017,SOM,Somalia,SWE,Sweden,90,100,4,0,194,92,79,4,0,175,0,369
+2017,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,68,89,6,0,163,72,32,0,0,104,0,267
+2017,AFG,Afghanistan,NLD,Netherlands,0,0,0,0,0,1,0,0,0,1,0,1
+2017,SYR,Syrian Arab Rep.,NLD,Netherlands,699,611,39,0,1349,780,672,34,0,1486,0,2835
+2017,SYR,Syrian Arab Rep.,IRL,Ireland,81,64,1,0,146,88,68,1,0,157,0,303
+2017,SOM,Somalia,NLD,Netherlands,3,2,0,0,5,2,0,0,0,2,0,7
+2017,AFG,Afghanistan,NZL,New Zealand,10,4,0,0,14,5,8,1,0,14,0,28
+2017,AFG,Afghanistan,NOR,Norway,1,1,0,0,2,1,0,0,0,1,0,3
+2017,SYR,Syrian Arab Rep.,AUS,Australia,20,21,1,0,42,19,20,0,0,39,0,81
+2017,SOM,Somalia,AUS,Australia,25,72,3,0,100,32,39,0,0,71,0,171
+2017,SYR,Syrian Arab Rep.,ARG,Argentina,13,30,0,0,43,29,32,1,0,62,0,105
+2017,AFG,Afghanistan,SWE,Sweden,56,126,7,0,189,94,23,2,0,119,0,308
+2017,AFG,Afghanistan,CAN,Canada,7,19,1,0,27,18,11,1,0,30,0,57
+2017,SOM,Somalia,PRT,Portugal,0,1,0,0,1,0,0,0,0,0,0,1
+2017,SYR,Syrian Arab Rep.,NZL,New Zealand,205,113,5,0,323,229,123,3,0,355,0,678
+2017,SYR,Syrian Arab Rep.,LVA,Latvia,12,14,0,0,26,25,14,0,0,39,0,65
+2017,SOM,Somalia,USA,United States of America,326,286,9,0,621,325,262,15,0,602,14,1237
+2017,SYR,Syrian Arab Rep.,CYP,Cyprus,1,2,0,0,3,1,1,1,0,3,0,6
+2017,IRQ,Iraq,ITA,Italy,0,1,0,0,1,0,3,0,0,3,0,4
+2017,SYR,Syrian Arab Rep.,DEU,Germany,869,924,97,0,1890,902,761,99,0,1762,0,3652
+2017,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,1585,1742,81,0,3408,1935,1638,91,0,3664,0,7072
+2017,SYR,Syrian Arab Rep.,ITA,Italy,249,222,5,0,476,343,242,1,0,586,0,1062
+2017,SYR,Syrian Arab Rep.,AUT,Austria,63,63,1,0,127,67,57,2,0,126,0,253
+2017,SYR,Syrian Arab Rep.,EST,Estonia,33,34,3,0,70,38,34,1,0,73,0,143
+2017,SYR,Syrian Arab Rep.,PRT,Portugal,63,37,1,0,101,76,44,0,0,120,0,221
+2017,SYR,Syrian Arab Rep.,LTU,Lithuania,44,42,2,0,88,58,43,2,0,103,0,191
+2017,IRQ,Iraq,FIN,Finland,1,2,0,0,3,1,1,0,0,2,0,5
+2017,SYR,Syrian Arab Rep.,CAN,Canada,383,234,9,0,626,424,267,10,0,701,0,1327
+2017,SYR,Syrian Arab Rep.,FRA,France,1033,898,37,0,1968,1259,948,32,0,2239,0,4207
+2017,SOM,Somalia,FRA,France,48,25,0,0,73,39,13,0,0,52,0,125
+2017,IRQ,Iraq,SWE,Sweden,9,18,4,0,31,10,14,1,0,25,0,56
+2017,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,167,184,8,0,359,171,114,6,0,291,0,650
+2017,SYR,Syrian Arab Rep.,LUX,Luxembourg,58,46,4,0,108,50,57,1,0,108,0,216
+2017,SYR,Syrian Arab Rep.,FIN,Finland,161,139,1,0,301,203,156,4,0,363,0,664
+2017,SYR,Syrian Arab Rep.,CHL,Chile,20,22,0,0,42,29,24,0,0,53,0,95
+2017,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,28,28,0,0,56,25,15,0,0,40,0,96
+2017,SYR,Syrian Arab Rep.,USA,United States of America,1089,793,27,0,1909,1137,840,56,0,2033,0,3942
+2017,SYR,Syrian Arab Rep.,SWE,Sweden,715,598,43,0,1356,895,597,27,0,1519,0,2875
+2017,IRQ,Iraq,DEU,Germany,2,3,0,0,5,3,2,0,0,5,0,10
+2017,SOM,Somalia,NZL,New Zealand,6,7,1,0,14,2,4,0,0,6,0,20
+2017,IRQ,Iraq,NLD,Netherlands,1,1,0,0,2,1,6,0,0,7,0,9
+2017,SYR,Syrian Arab Rep.,MLT,Malta,4,4,0,0,8,2,1,0,0,3,0,11
+2017,SOM,Somalia,DEU,Germany,1,3,0,0,4,0,4,0,0,4,0,8
+2017,SYR,Syrian Arab Rep.,BEL,Belgium,294,315,15,0,624,417,308,8,0,733,0,1357
+2017,IRQ,Iraq,FRA,France,4,6,1,0,11,5,9,0,0,14,0,25
+2017,SYR,Syrian Arab Rep.,ROU,Romania,13,8,0,0,21,13,14,0,0,27,0,48
+2017,AFG,Afghanistan,FIN,Finland,2,1,1,0,4,3,4,0,0,7,0,11
+2017,SYR,Syrian Arab Rep.,HRV,Croatia,40,36,0,0,76,44,35,2,0,81,0,157
+2017,SOM,Somalia,CAN,Canada,88,95,4,0,187,99,68,2,0,169,0,356
+2017,IRQ,Iraq,NZL,New Zealand,4,14,1,0,19,9,22,3,0,34,0,53
+2017,IRQ,Iraq,LUX,Luxembourg,0,0,0,0,0,0,2,0,0,2,0,2
+2018,IRQ,Iraq,NOR,Norway,2,3,0,0,5,4,1,0,0,5,0,10
+2018,SYR,Syrian Arab Rep.,CHE,Switzerland,268,222,7,0,497,336,213,6,0,555,0,1052
+2018,IRQ,Iraq,CAN,Canada,197,298,36,0,531,198,290,30,0,518,0,1049
+2018,AFG,Afghanistan,AUS,Australia,12,24,1,0,37,16,13,2,0,31,0,68
+2018,SYR,Syrian Arab Rep.,ISL,Iceland,9,13,0,0,22,27,12,0,0,39,0,61
+2018,SOM,Somalia,NOR,Norway,2,1,0,0,3,2,0,0,0,2,0,5
+2018,AFG,Afghanistan,USA,United States of America,610,745,33,0,1388,673,655,32,0,1360,0,2748
+2018,SOM,Somalia,SWE,Sweden,40,54,2,0,96,43,40,1,0,84,4,184
+2018,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,68,89,1,0,158,87,47,2,0,136,1,295
+2018,AFG,Afghanistan,NLD,Netherlands,0,1,0,0,1,0,0,0,0,0,0,1
+2018,SYR,Syrian Arab Rep.,NLD,Netherlands,546,535,23,0,1104,675,572,32,0,1279,0,2383
+2018,SYR,Syrian Arab Rep.,IRL,Ireland,87,83,1,0,171,125,93,0,0,218,0,389
+2018,SOM,Somalia,NLD,Netherlands,5,11,2,0,18,3,7,0,0,10,0,28
+2018,AFG,Afghanistan,NZL,New Zealand,46,79,1,0,126,43,34,3,0,80,0,206
+2018,AFG,Afghanistan,NOR,Norway,0,1,0,0,1,0,2,0,0,2,0,3
+2018,SYR,Syrian Arab Rep.,AUS,Australia,15,10,1,0,26,21,11,1,0,33,0,59
+2018,SOM,Somalia,AUS,Australia,1,2,0,0,3,7,4,0,0,11,0,14
+2018,SYR,Syrian Arab Rep.,ARG,Argentina,3,1,0,0,4,4,1,0,0,5,0,9
+2018,AFG,Afghanistan,SWE,Sweden,112,175,10,0,297,95,45,5,0,145,0,442
+2018,AFG,Afghanistan,CAN,Canada,70,82,7,0,159,64,94,8,0,166,0,325
+2018,IRQ,Iraq,BEL,Belgium,0,1,0,0,1,0,0,0,0,0,0,1
+2018,SOM,Somalia,PRT,Portugal,2,1,0,0,3,2,0,0,0,2,0,5
+2018,SYR,Syrian Arab Rep.,NZL,New Zealand,71,45,2,0,118,70,50,2,0,122,0,240
+2018,SYR,Syrian Arab Rep.,LVA,Latvia,1,1,0,0,2,1,1,0,0,2,0,4
+2018,SOM,Somalia,USA,United States of America,71,53,1,0,125,80,36,1,0,117,0,242
+2018,SYR,Syrian Arab Rep.,DEU,Germany,1013,890,66,0,1969,1096,810,53,0,1959,0,3928
+2018,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,975,974,50,0,1999,1129,920,31,0,2080,0,4079
+2018,SYR,Syrian Arab Rep.,ITA,Italy,130,101,0,0,231,144,108,1,0,253,0,484
+2018,SYR,Syrian Arab Rep.,EST,Estonia,22,17,1,0,40,30,18,0,0,48,0,88
+2018,SYR,Syrian Arab Rep.,PRT,Portugal,47,61,6,0,114,85,64,3,0,152,0,266
+2018,SYR,Syrian Arab Rep.,LTU,Lithuania,6,2,0,0,8,3,2,0,0,5,0,13
+2018,SYR,Syrian Arab Rep.,CAN,Canada,1545,1090,65,0,2700,1701,1075,32,0,2808,0,5508
+2018,SYR,Syrian Arab Rep.,FRA,France,753,610,29,0,1392,895,635,20,0,1550,1,2943
+2018,SYR,Syrian Arab Rep.,BGR,Bulgaria,24,10,1,0,35,20,11,0,0,31,0,66
+2018,SOM,Somalia,FRA,France,9,22,0,0,31,5,26,0,0,31,9,71
+2018,IRQ,Iraq,SWE,Sweden,14,23,5,0,42,17,14,1,0,32,0,74
+2018,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,121,150,12,0,283,153,116,11,0,280,0,563
+2018,SYR,Syrian Arab Rep.,FIN,Finland,176,132,3,0,311,162,151,4,0,317,0,628
+2018,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,39,64,3,0,106,40,35,1,0,76,0,182
+2018,SYR,Syrian Arab Rep.,USA,United States of America,28,17,1,0,46,26,13,0,0,39,0,85
+2018,SOM,Somalia,CHE,Switzerland,0,7,0,0,7,0,1,0,0,1,2,10
+2018,SYR,Syrian Arab Rep.,SWE,Sweden,525,464,44,0,1033,638,456,24,0,1118,0,2151
+2018,SOM,Somalia,NZL,New Zealand,6,4,1,0,11,3,4,0,0,7,0,18
+2018,IRQ,Iraq,NLD,Netherlands,2,4,0,0,6,3,3,0,0,6,0,12
+2018,SOM,Somalia,DEU,Germany,3,17,0,0,20,11,14,0,0,25,2,47
+2018,SYR,Syrian Arab Rep.,BEL,Belgium,247,247,13,0,507,296,273,10,0,579,0,1086
+2018,IRQ,Iraq,FRA,France,2,7,0,0,9,2,6,0,0,8,0,17
+2018,AFG,Afghanistan,FIN,Finland,2,3,0,0,5,2,1,0,0,3,0,8
+2018,SYR,Syrian Arab Rep.,HRV,Croatia,85,73,1,0,159,87,83,1,0,171,0,330
+2018,SOM,Somalia,CAN,Canada,563,506,17,0,1086,615,406,20,0,1041,3,2130
+2018,IRQ,Iraq,NZL,New Zealand,2,3,0,0,5,0,4,0,0,4,0,9
+2018,SOM,Somalia,FIN,Finland,0,2,0,0,2,0,3,0,0,3,0,5
+2018,SOM,Somalia,BEL,Belgium,1,4,0,0,5,3,4,0,0,7,0,12
+2018,IRQ,Iraq,AUS,Australia,4,5,0,0,9,3,3,0,0,6,0,15
+2018,SYR,Syrian Arab Rep.,NOR,Norway,303,273,7,0,583,391,230,8,0,629,0,1212
+2018,IRQ,Iraq,USA,United States of America,172,264,35,0,471,188,285,31,0,504,0,975
+2018,SYR,Syrian Arab Rep.,ESP,Spain,289,233,7,0,529,346,244,6,0,596,0,1125
+2018,AFG,Afghanistan,FRA,France,2,2,0,0,4,2,6,0,0,8,0,12
+2018,IRQ,Iraq,IRL,Ireland,0,1,0,0,1,2,2,0,0,4,0,5
+2018,IRQ,Iraq,PRT,Portugal,18,39,1,0,58,21,29,0,0,50,0,108
+2019,SYR,Syrian Arab Rep.,CAN,Canada,1658,1351,49,0,3058,2004,1401,53,0,3458,0,6516
+2019,SYR,Syrian Arab Rep.,FRA,France,431,341,10,0,782,474,354,10,0,838,0,1620
+2019,SYR,Syrian Arab Rep.,BGR,Bulgaria,41,39,0,0,80,49,39,0,0,88,0,168
+2019,SOM,Somalia,FRA,France,14,33,0,0,47,19,18,0,0,37,0,84
+2019,AFG,Afghanistan,NOR,Norway,0,0,0,0,0,0,1,0,0,1,0,1
+2019,SYR,Syrian Arab Rep.,AUS,Australia,80,63,4,0,147,93,60,3,0,156,0,303
+2019,SOM,Somalia,AUS,Australia,7,2,0,0,9,7,0,0,0,7,0,16
+2019,SYR,Syrian Arab Rep.,ARG,Argentina,2,0,0,0,2,3,0,0,0,3,0,5
+2019,AFG,Afghanistan,SWE,Sweden,24,47,3,0,74,22,10,2,0,34,0,108
+2019,AFG,Afghanistan,CAN,Canada,45,65,3,0,113,44,39,5,0,88,0,201
+2019,SOM,Somalia,PRT,Portugal,0,1,0,0,1,1,2,0,0,3,0,4
+2019,SYR,Syrian Arab Rep.,NZL,New Zealand,8,3,1,0,12,5,3,0,0,8,0,20
+2019,AFG,Afghanistan,KOR,Rep. of Korea,0,0,0,0,0,0,1,0,0,1,0,1
+2019,SOM,Somalia,USA,United States of America,61,20,1,0,82,60,12,1,0,73,0,155
+2019,SOM,Somalia,MLT,Malta,0,1,0,0,1,0,0,0,0,0,0,1
+2019,SOM,Somalia,DNK,Denmark,4,4,0,0,8,0,2,0,0,2,0,10
+2019,SYR,Syrian Arab Rep.,DEU,Germany,2030,1765,164,0,3959,2294,1604,104,0,4002,0,7961
+2019,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,441,588,34,0,1063,589,525,48,0,1162,0,2225
+2019,SYR,Syrian Arab Rep.,ITA,Italy,114,84,3,0,201,119,88,2,0,209,0,410
+2019,SYR,Syrian Arab Rep.,EST,Estonia,1,2,0,0,3,0,2,0,0,2,0,5
+2019,SYR,Syrian Arab Rep.,PRT,Portugal,115,115,3,0,233,162,140,4,0,306,0,539
+2019,IRQ,Iraq,NZL,New Zealand,0,0,0,0,0,3,1,0,0,4,0,4
+2019,IRQ,Iraq,SWE,Sweden,3,5,0,0,8,2,5,1,0,8,0,16
+2019,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,44,59,6,0,109,52,43,1,0,96,0,205
+2019,SYR,Syrian Arab Rep.,FIN,Finland,137,131,9,0,277,145,135,6,0,286,0,563
+2019,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,33,55,5,0,93,41,40,6,0,87,0,180
+2019,SYR,Syrian Arab Rep.,USA,United States of America,115,3,0,0,118,102,4,0,0,106,0,224
+2019,SYR,Syrian Arab Rep.,SWE,Sweden,634,538,23,0,1195,702,549,29,0,1280,0,2475
+2019,IRQ,Iraq,DNK,Denmark,0,0,0,0,0,0,1,0,0,1,0,1
+2019,SOM,Somalia,NZL,New Zealand,13,17,0,0,30,9,1,0,0,10,0,40
+2019,IRQ,Iraq,NLD,Netherlands,0,1,0,0,1,1,5,0,0,6,0,7
+2019,SOM,Somalia,DEU,Germany,197,166,4,0,367,184,119,4,0,307,0,674
+2019,SYR,Syrian Arab Rep.,BEL,Belgium,170,188,9,0,367,199,171,7,0,377,0,744
+2019,IRQ,Iraq,FRA,France,0,0,0,0,0,0,1,0,0,1,0,1
+2019,IRQ,Iraq,FIN,Finland,0,0,0,0,0,0,3,0,0,3,0,3
+2019,AFG,Afghanistan,FIN,Finland,1,1,0,0,2,2,1,0,0,3,0,5
+2019,SYR,Syrian Arab Rep.,HRV,Croatia,10,8,1,0,19,15,7,0,0,22,0,41
+2019,SOM,Somalia,CAN,Canada,574,648,26,0,1248,577,473,26,0,1076,0,2324
+2019,SOM,Somalia,LUX,Luxembourg,0,8,0,0,8,1,9,0,0,10,0,18
+2019,IRQ,Iraq,ESP,Spain,0,1,0,0,1,0,0,0,0,0,0,1
+2019,SOM,Somalia,FIN,Finland,3,25,0,0,28,3,15,0,0,18,0,46
+2019,IRQ,Iraq,AUS,Australia,225,413,53,0,691,226,387,47,0,660,0,1351
+2019,IRQ,Iraq,DEU,Germany,11,24,4,0,39,21,21,3,0,45,0,84
+2019,SYR,Syrian Arab Rep.,MLT,Malta,7,4,0,0,11,3,3,0,0,6,0,17
+2019,SYR,Syrian Arab Rep.,NOR,Norway,403,345,12,0,760,522,339,6,0,867,0,1627
+2019,IRQ,Iraq,USA,United States of America,24,3,0,0,27,39,4,0,0,43,0,70
+2019,SYR,Syrian Arab Rep.,ESP,Spain,267,238,7,0,512,303,262,5,0,570,0,1082
+2019,AFG,Afghanistan,FRA,France,0,2,0,0,2,1,6,0,0,7,0,9
+2019,IRQ,Iraq,IRL,Ireland,2,5,1,0,8,4,4,1,0,9,0,17
+2019,SYR,Syrian Arab Rep.,ROU,Romania,50,45,5,0,100,57,38,3,0,98,0,198
+2019,IRQ,Iraq,PRT,Portugal,55,73,8,0,136,63,64,2,0,129,0,265
+2019,IRQ,Iraq,NOR,Norway,0,0,0,0,0,0,4,0,0,4,0,4
+2019,SYR,Syrian Arab Rep.,CHE,Switzerland,263,230,4,0,497,343,229,4,0,576,0,1073
+2019,IRQ,Iraq,CAN,Canada,101,160,17,0,278,113,168,18,0,299,0,577
+2019,AFG,Afghanistan,AUS,Australia,61,97,6,0,164,75,96,5,0,176,1,341
+2019,SOM,Somalia,NOR,Norway,7,5,0,0,12,6,4,0,0,10,1,23
+2019,AFG,Afghanistan,USA,United States of America,1184,1275,51,0,2510,1333,998,41,0,2372,0,4882
+2019,SOM,Somalia,SWE,Sweden,192,167,7,0,366,186,98,2,0,286,0,652
+2019,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,66,108,2,0,176,75,46,0,0,121,0,297
+2019,AFG,Afghanistan,NLD,Netherlands,0,0,0,0,0,0,4,0,0,4,0,4
+2019,SYR,Syrian Arab Rep.,NLD,Netherlands,188,243,12,0,443,275,263,12,0,550,0,993
+2019,SYR,Syrian Arab Rep.,IRL,Ireland,199,193,3,0,395,261,189,6,0,456,0,851
+2019,SOM,Somalia,NLD,Netherlands,13,14,0,0,27,9,8,0,0,17,0,44
+2019,AFG,Afghanistan,NZL,New Zealand,35,35,2,0,72,40,28,0,0,68,0,140
+2020,IRQ,Iraq,FIN,Finland,0,0,0,0,0,0,1,0,0,1,0,1
+2020,AFG,Afghanistan,FIN,Finland,4,2,1,0,7,3,1,0,0,4,0,11
+2020,AFG,Afghanistan,ISL,Iceland,6,8,0,0,14,7,3,0,0,10,0,24
+2020,SOM,Somalia,CAN,Canada,214,379,18,0,611,212,232,11,0,455,0,1066
+2020,IRQ,Iraq,NZL,New Zealand,6,6,0,0,12,6,9,1,0,16,0,28
+2020,IRQ,Iraq,SWE,Sweden,0,0,1,0,1,0,1,0,0,1,0,2
+2020,SOM,Somalia,ISL,Iceland,2,1,1,0,4,4,0,0,0,4,0,8
+2020,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,5,5,1,0,11,9,4,0,0,13,0,24
+2020,IRQ,Iraq,CHE,Switzerland,7,14,2,0,23,11,13,2,0,26,0,49
+2020,SYR,Syrian Arab Rep.,FIN,Finland,158,130,1,0,289,181,135,1,0,317,0,606
+2020,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,27,38,1,0,66,15,18,0,0,33,0,99
+2020,SYR,Syrian Arab Rep.,USA,United States of America,11,4,0,0,15,11,0,0,0,11,0,26
+2020,SYR,Syrian Arab Rep.,SWE,Sweden,461,416,29,0,906,534,402,13,0,949,0,1855
+2020,SOM,Somalia,NZL,New Zealand,45,58,2,0,105,51,20,1,0,72,0,177
+2020,IRQ,Iraq,NLD,Netherlands,0,1,0,0,1,0,2,0,0,2,0,3
+2020,SOM,Somalia,DEU,Germany,18,28,1,0,47,9,21,0,0,30,0,77
+2020,SYR,Syrian Arab Rep.,BEL,Belgium,93,107,8,0,208,151,116,5,0,272,0,480
+2020,SOM,Somalia,LUX,Luxembourg,1,0,0,0,1,0,0,0,0,0,0,1
+2020,SOM,Somalia,NLD,Netherlands,20,16,0,0,36,27,8,1,0,36,0,72
+2020,SOM,Somalia,FIN,Finland,9,11,0,0,20,11,22,0,0,33,0,53
+2020,IRQ,Iraq,AUS,Australia,81,145,20,0,246,101,140,12,0,253,0,499
+2020,SOM,Somalia,CHE,Switzerland,1,2,0,0,3,0,2,0,0,2,0,5
+2020,SYR,Syrian Arab Rep.,NOR,Norway,450,367,3,0,820,526,313,2,0,841,0,1661
+2020,IRQ,Iraq,USA,United States of America,28,1,0,0,29,26,0,0,0,26,0,55
+2020,SYR,Syrian Arab Rep.,ESP,Spain,13,2,0,0,15,8,4,0,0,12,0,27
+2020,AFG,Afghanistan,FRA,France,2,2,0,0,4,6,6,0,0,12,0,16
+2020,AFG,Afghanistan,CHE,Switzerland,14,10,1,0,25,10,5,1,0,16,0,41
+2020,SYR,Syrian Arab Rep.,ROU,Romania,12,7,0,0,19,18,9,0,0,27,0,46
+2020,AFG,Afghanistan,NZL,New Zealand,29,49,0,0,78,54,37,1,0,92,0,170
+2020,SYR,Syrian Arab Rep.,CHE,Switzerland,148,141,3,0,292,196,148,4,0,348,0,640
+2020,IRQ,Iraq,CAN,Canada,86,128,25,0,239,83,118,16,0,217,0,456
+2020,AFG,Afghanistan,AUS,Australia,72,117,6,0,195,91,121,7,0,219,0,414
+2020,SOM,Somalia,NOR,Norway,31,32,1,0,64,13,16,0,0,29,0,93
+2020,AFG,Afghanistan,USA,United States of America,27,4,0,0,31,46,3,0,0,49,0,80
+2020,SOM,Somalia,SWE,Sweden,14,18,0,0,32,25,12,0,0,37,0,69
+2020,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,42,81,5,0,128,46,60,2,0,108,0,236
+2020,SYR,Syrian Arab Rep.,NLD,Netherlands,148,160,7,0,315,157,195,5,0,357,0,672
+2020,SYR,Syrian Arab Rep.,IRL,Ireland,133,112,2,0,247,127,105,2,0,234,0,481
+2020,SYR,Syrian Arab Rep.,CAN,Canada,1045,929,38,0,2012,1168,967,47,0,2182,0,4194
+2020,SYR,Syrian Arab Rep.,FRA,France,760,610,18,0,1388,864,635,22,0,1521,0,2909
+2020,SOM,Somalia,FRA,France,10,17,0,0,27,18,13,0,0,31,0,58
+2020,AFG,Afghanistan,NOR,Norway,4,4,0,0,8,2,0,0,0,2,0,10
+2020,SYR,Syrian Arab Rep.,AUS,Australia,207,151,10,0,368,229,147,2,0,378,0,746
+2020,SOM,Somalia,AUS,Australia,20,10,0,0,30,19,11,0,0,30,0,60
+2020,SYR,Syrian Arab Rep.,ARG,Argentina,0,0,0,0,0,1,0,0,0,1,0,1
+2020,AFG,Afghanistan,SWE,Sweden,11,7,0,0,18,8,6,0,0,14,0,32
+2020,AFG,Afghanistan,CAN,Canada,57,91,1,0,149,67,84,8,0,159,0,308
+2020,SYR,Syrian Arab Rep.,NZL,New Zealand,2,0,0,0,2,2,1,0,0,3,0,5
+2020,SOM,Somalia,USA,United States of America,52,5,0,0,57,37,1,1,0,39,0,96
+2020,SYR,Syrian Arab Rep.,ISL,Iceland,12,11,0,0,23,12,11,0,0,23,0,46
+2020,SYR,Syrian Arab Rep.,DNK,Denmark,10,8,0,0,18,12,8,0,0,20,0,38
+2020,SYR,Syrian Arab Rep.,DEU,Germany,480,448,31,0,959,607,391,18,0,1016,0,1975
+2020,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,245,334,23,0,602,325,308,18,0,651,0,1253
+2020,SYR,Syrian Arab Rep.,ITA,Italy,116,130,0,0,246,167,143,1,0,311,0,557
+2020,SYR,Syrian Arab Rep.,PRT,Portugal,2,0,0,0,2,0,0,0,0,0,0,2
+2020,IRQ,Iraq,JPN,Japan,0,1,0,0,1,0,0,0,0,0,0,1
+2021,IRQ,Iraq,BEL,Belgium,0,0,0,0,0,0,1,0,0,1,0,1
+2021,SOM,Somalia,FIN,Finland,1,2,0,0,3,3,2,1,0,6,0,9
+2021,IRQ,Iraq,AUS,Australia,69,114,16,0,199,75,118,9,0,202,0,401
+2021,SOM,Somalia,CHE,Switzerland,3,5,0,0,8,2,3,0,0,5,0,13
+2021,SYR,Syrian Arab Rep.,NOR,Norway,397,308,5,0,710,435,305,1,0,741,0,1451
+2021,IRQ,Iraq,USA,United States of America,80,96,6,0,182,86,79,7,0,172,0,354
+2021,SYR,Syrian Arab Rep.,ESP,Spain,204,215,2,0,421,262,233,5,0,500,0,921
+2021,IRQ,Iraq,FRA,France,0,0,0,0,0,0,1,0,0,1,0,1
+2021,AFG,Afghanistan,CHE,Switzerland,62,80,0,0,142,74,51,1,0,126,0,268
+2021,SYR,Syrian Arab Rep.,ROU,Romania,64,53,0,0,117,69,54,1,0,124,0,241
+2021,IRQ,Iraq,PRT,Portugal,1,0,0,0,1,1,0,0,0,1,0,2
+2021,AFG,Afghanistan,ESP,Spain,0,4,0,0,4,2,3,0,0,5,0,9
+2021,SYR,Syrian Arab Rep.,CHE,Switzerland,70,75,4,0,149,89,81,4,0,174,0,323
+2021,IRQ,Iraq,ESP,Spain,2,1,0,0,3,1,2,0,0,3,0,6
+2021,IRQ,Iraq,CAN,Canada,35,39,6,0,80,29,52,2,0,83,0,163
+2021,AFG,Afghanistan,AUS,Australia,127,151,9,0,287,117,139,5,0,261,0,548
+2021,IRQ,Iraq,DEU,Germany,11,8,0,0,19,6,16,0,0,22,0,41
+2021,SOM,Somalia,NOR,Norway,4,0,0,0,4,1,4,1,0,6,0,10
+2021,AFG,Afghanistan,USA,United States of America,204,235,8,0,447,227,219,7,0,453,0,900
+2021,SOM,Somalia,SWE,Sweden,7,8,0,0,15,7,4,0,0,11,0,26
+2021,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,7,1,1,0,9,2,0,0,0,2,0,11
+2021,SYR,Syrian Arab Rep.,NLD,Netherlands,76,65,3,0,144,102,64,2,0,168,0,312
+2021,SYR,Syrian Arab Rep.,IRL,Ireland,27,32,3,0,62,62,29,3,0,94,0,156
+2021,SYR,Syrian Arab Rep.,CAN,Canada,1136,1059,43,0,2238,1350,1098,31,0,2479,0,4717
+2021,SYR,Syrian Arab Rep.,FRA,France,120,110,11,0,241,117,107,5,0,229,0,470
+2021,SOM,Somalia,FRA,France,22,20,0,0,42,17,11,0,0,28,0,70
+2021,AFG,Afghanistan,NOR,Norway,4,5,0,0,9,3,1,0,0,4,0,13
+2021,SYR,Syrian Arab Rep.,AUS,Australia,12,20,3,0,35,12,22,3,0,37,0,72
+2021,SOM,Somalia,AUS,Australia,19,19,2,0,40,29,28,1,0,58,0,98
+2021,AFG,Afghanistan,SWE,Sweden,7,18,1,0,26,8,8,1,0,17,0,43
+2021,AFG,Afghanistan,CAN,Canada,72,119,6,0,197,77,113,5,0,195,0,392
+2021,SOM,Somalia,BEL,Belgium,1,2,0,0,3,1,1,0,0,2,0,5
+2021,SYR,Syrian Arab Rep.,NZL,New Zealand,2,0,0,0,2,1,0,0,0,1,0,3
+2021,SOM,Somalia,USA,United States of America,394,196,9,0,599,373,155,3,0,531,0,1130
+2021,SYR,Syrian Arab Rep.,ISL,Iceland,1,1,0,0,2,0,0,0,0,0,0,2
+2021,SYR,Syrian Arab Rep.,DEU,Germany,505,475,29,0,1009,612,440,28,0,1080,0,2089
+2021,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,17,5,0,0,22,15,5,0,0,20,0,42
+2021,AFG,Afghanistan,NLD,Netherlands,0,0,0,0,0,0,1,0,0,1,0,1
+2021,SYR,Syrian Arab Rep.,ITA,Italy,2,0,0,0,2,1,0,0,0,1,0,3
+2021,SYR,Syrian Arab Rep.,PRT,Portugal,2,0,0,0,2,2,1,0,0,3,0,5
+2021,AFG,Afghanistan,FIN,Finland,2,5,0,0,7,4,4,0,0,8,0,15
+2021,SOM,Somalia,CAN,Canada,218,269,7,0,494,213,210,13,0,436,0,930
+2021,AFG,Afghanistan,NZL,New Zealand,5,4,1,0,10,2,1,1,0,4,0,14
+2021,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,0,0,0,0,0,2,0,0,0,2,0,2
+2021,SOM,Somalia,PRT,Portugal,2,1,0,0,3,0,0,0,0,0,0,3
+2021,IRQ,Iraq,CHE,Switzerland,5,6,0,0,11,4,4,1,0,9,0,20
+2021,SYR,Syrian Arab Rep.,FIN,Finland,181,133,3,0,317,183,155,8,0,346,0,663
+2021,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,1,0,0,0,1,0,1,0,0,1,0,2
+2021,SYR,Syrian Arab Rep.,USA,United States of America,3475,2326,130,0,5931,3684,2560,102,0,6346,0,12277
+2021,SYR,Syrian Arab Rep.,SWE,Sweden,422,390,24,0,836,458,389,17,0,864,0,1700
+2021,SOM,Somalia,NZL,New Zealand,3,2,0,0,5,1,2,0,0,3,0,8
+2021,IRQ,Iraq,NLD,Netherlands,0,0,2,0,2,0,0,0,0,0,0,2
+2021,SOM,Somalia,DEU,Germany,30,18,0,0,48,19,5,1,0,25,0,73
+2021,SYR,Syrian Arab Rep.,BEL,Belgium,67,79,2,0,148,95,81,3,0,179,0,327
+2021,AFG,Afghanistan,FRA,France,0,3,0,0,3,0,3,1,0,4,0,7
+2022,IRQ,Iraq,PRT,Portugal,18,6,0,0,24,6,6,0,0,12,0,36
+2022,AFG,Afghanistan,ITA,Italy,3,15,0,0,18,12,9,1,0,22,0,40
+2022,SOM,Somalia,NLD,Netherlands,6,0,0,0,6,1,0,0,0,1,0,7
+2022,SYR,Syrian Arab Rep.,CHE,Switzerland,171,151,5,0,327,220,140,7,0,367,0,694
+2022,IRQ,Iraq,CAN,Canada,7,17,3,0,27,11,15,2,0,28,0,55
+2022,AFG,Afghanistan,AUS,Australia,544,901,56,0,1501,547,630,29,0,1206,0,2707
+2022,IRQ,Iraq,DEU,Germany,27,36,4,0,67,28,40,5,0,73,0,140
+2022,SYR,Syrian Arab Rep.,KOR,Rep. of Korea,1,1,0,0,2,3,0,0,0,3,0,5
+2022,SOM,Somalia,NOR,Norway,0,0,0,0,0,0,2,0,0,2,0,2
+2022,AFG,Afghanistan,USA,United States of America,968,1018,56,0,2042,1002,1082,47,0,2131,0,4173
+2022,SOM,Somalia,SWE,Sweden,7,6,1,0,14,4,3,0,0,7,0,21
+2022,SYR,Syrian Arab Rep.,CAN,Canada,336,259,17,0,612,382,253,10,0,645,0,1257
+2022,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,4,0,0,0,4,7,1,0,0,8,0,12
+2022,SYR,Syrian Arab Rep.,NLD,Netherlands,364,427,22,0,813,479,460,24,0,963,0,1776
+2022,SYR,Syrian Arab Rep.,PRT,Portugal,25,23,2,0,50,34,30,1,0,65,0,115
+2022,SYR,Syrian Arab Rep.,IRL,Ireland,84,100,2,0,186,129,95,0,0,224,0,410
+2022,SYR,Syrian Arab Rep.,FRA,France,485,380,12,0,877,494,415,9,0,918,0,1795
+2022,SOM,Somalia,FRA,France,30,28,0,0,58,23,13,0,0,36,0,94
+2022,AFG,Afghanistan,NOR,Norway,5,3,0,0,8,3,4,0,0,7,0,15
+2022,SYR,Syrian Arab Rep.,AUS,Australia,190,156,5,0,351,226,147,1,0,374,0,725
+2022,SOM,Somalia,AUS,Australia,4,3,0,0,7,5,2,0,0,7,0,14
+2022,AFG,Afghanistan,SWE,Sweden,53,81,1,0,135,74,61,2,0,137,0,272
+2022,AFG,Afghanistan,CAN,Canada,438,540,24,0,1002,435,396,24,0,855,0,1857
+2022,SYR,Syrian Arab Rep.,NZL,New Zealand,94,77,3,0,174,98,75,0,0,173,0,347
+2022,SOM,Somalia,ITA,Italy,0,1,0,0,1,0,0,0,0,0,0,1
+2022,SOM,Somalia,USA,United States of America,822,637,38,0,1497,822,492,20,0,1334,2,2833
+2022,AFG,Afghanistan,PRT,Portugal,0,0,0,0,0,0,1,0,0,1,0,1
+2022,SYR,Syrian Arab Rep.,DEU,Germany,1027,931,84,0,2042,1125,912,59,0,2096,0,4138
+2022,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,16,3,0,0,19,9,2,0,0,11,0,30
+2022,AFG,Afghanistan,NLD,Netherlands,4,10,0,0,14,6,9,1,0,16,0,30
+2022,SYR,Syrian Arab Rep.,ITA,Italy,1,2,0,0,3,2,2,0,0,4,0,7
+2022,AFG,Afghanistan,FIN,Finland,158,294,8,0,460,169,82,2,0,253,0,713
+2022,SOM,Somalia,CAN,Canada,86,86,5,0,177,77,62,1,0,140,0,317
+2022,AFG,Afghanistan,NZL,New Zealand,128,181,11,0,320,146,68,5,0,219,0,539
+2022,SYR,Syrian Arab Rep.,ARG,Argentina,0,0,0,0,0,1,0,0,0,1,0,1
+2022,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,0,1,0,0,1,1,0,0,0,1,0,2
+2022,SYR,Syrian Arab Rep.,FIN,Finland,152,131,4,0,287,196,136,6,0,338,0,625
+2022,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,329,579,28,0,936,397,208,14,0,619,0,1555
+2022,SYR,Syrian Arab Rep.,USA,United States of America,5963,4435,216,0,10614,6620,4798,185,0,11603,0,22217
+2022,SYR,Syrian Arab Rep.,SWE,Sweden,326,298,16,0,640,381,281,12,0,674,0,1314
+2022,SOM,Somalia,NZL,New Zealand,28,17,1,0,46,24,27,0,0,51,0,97
+2022,IRQ,Iraq,NLD,Netherlands,0,0,0,0,0,0,2,0,0,2,0,2
+2022,SOM,Somalia,DEU,Germany,41,89,3,0,133,57,63,1,0,121,0,254
+2022,AFG,Afghanistan,CHE,Switzerland,68,85,3,0,156,80,70,3,0,153,0,309
+2022,SYR,Syrian Arab Rep.,ROU,Romania,1,0,0,0,1,0,0,0,0,0,0,1
+2022,IRQ,Iraq,NZL,New Zealand,0,1,1,0,2,1,5,0,0,6,0,8
+2022,IRQ,Iraq,SWE,Sweden,1,1,1,0,3,1,3,0,0,4,0,7
+2022,AFG,Afghanistan,MLT,Malta,0,0,0,0,0,0,1,0,0,1,0,1
+2022,AFG,Afghanistan,KOR,Rep. of Korea,0,1,0,0,1,1,2,0,0,3,0,4
+2022,SOM,Somalia,FIN,Finland,3,4,0,0,7,3,5,0,0,8,1,16
+2022,IRQ,Iraq,AUS,Australia,4,14,1,0,19,11,8,1,0,20,0,39
+2022,SOM,Somalia,CHE,Switzerland,8,11,0,0,19,4,2,0,0,6,0,25
+2022,SYR,Syrian Arab Rep.,NOR,Norway,301,249,5,0,555,360,202,0,0,562,0,1117
+2022,IRQ,Iraq,USA,United States of America,75,116,16,0,207,79,108,9,0,196,0,403
+2022,SYR,Syrian Arab Rep.,ESP,Spain,142,109,3,0,254,185,131,4,0,320,0,574
+2022,AFG,Afghanistan,DEU,Germany,29,35,2,0,66,38,23,3,0,64,0,130
+2023,SYR,Syrian Arab Rep.,PRT,Portugal,30,38,2,0,70,48,48,2,0,98,0,168
+2023,IRQ,Iraq,NZL,New Zealand,1,2,0,0,3,1,8,0,0,9,0,12
+2023,IRQ,Iraq,NLD,Netherlands,0,1,0,0,1,1,1,0,0,2,0,3
+2023,SYR,Syrian Arab Rep.,FRA,France,444,430,16,0,890,559,468,20,0,1047,0,1937
+2023,SOM,Somalia,FRA,France,3,4,0,0,7,2,3,0,0,5,0,12
+2023,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,11,3,0,0,14,17,2,0,0,19,0,33
+2023,AFG,Afghanistan,NOR,Norway,22,22,0,0,44,18,11,0,0,29,0,73
+2023,SYR,Syrian Arab Rep.,AUS,Australia,1284,957,41,0,2282,1482,947,27,0,2456,0,4738
+2023,SOM,Somalia,AUS,Australia,111,107,10,1,229,134,86,0,1,221,0,450
+2023,AFG,Afghanistan,CAN,Canada,256,301,16,0,573,262,244,14,0,520,0,1093
+2023,SOM,Somalia,USA,United States of America,695,438,23,0,1156,688,369,22,0,1079,0,2235
+2023,IRQ,Iraq,JPN,Japan,0,1,0,0,1,0,0,0,0,0,0,1
+2023,AFG,Afghanistan,PRT,Portugal,13,11,1,0,25,10,13,1,0,24,0,49
+2023,SYR,Syrian Arab Rep.,DEU,Germany,1153,1079,113,0,2345,1385,1012,68,0,2465,1,4811
+2023,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,12,6,2,0,20,8,1,0,0,9,0,29
+2023,AFG,Afghanistan,NLD,Netherlands,5,12,0,0,17,8,9,0,0,17,0,34
+2023,SYR,Syrian Arab Rep.,ITA,Italy,2,12,0,0,14,5,11,0,0,16,0,30
+2023,SYR,Syrian Arab Rep.,KOR,Rep. of Korea,1,1,0,0,2,3,0,0,0,3,0,5
+2023,AFG,Afghanistan,FIN,Finland,61,82,5,0,148,58,51,6,0,115,0,263
+2023,SOM,Somalia,CAN,Canada,69,95,10,0,174,80,84,0,0,164,0,338
+2023,AFG,Afghanistan,NZL,New Zealand,51,77,4,0,132,56,62,5,0,123,0,255
+2023,SYR,Syrian Arab Rep.,NZL,New Zealand,175,139,2,0,316,240,136,1,0,377,0,693
+2023,SOM,Somalia,NLD,Netherlands,0,5,0,0,5,3,0,0,0,3,0,8
+2023,IRQ,Iraq,GBR,United Kingdom of Great Britain and Northern Ireland,2,1,0,0,3,1,1,0,0,2,0,5
+2023,SOM,Somalia,PRT,Portugal,1,1,0,0,2,0,0,0,0,0,0,2
+2023,AFG,Afghanistan,JPN,Japan,0,0,0,0,0,0,1,0,0,1,0,1
+2023,SYR,Syrian Arab Rep.,FIN,Finland,128,112,2,0,242,189,110,4,0,303,0,545
+2023,SYR,Syrian Arab Rep.,USA,United States of America,4181,2570,156,0,6907,4478,2681,111,0,7270,0,14177
+2023,IRQ,Iraq,ESP,Spain,0,1,0,0,1,0,1,0,0,1,0,2
+2023,SOM,Somalia,JPN,Japan,0,3,0,0,3,0,6,0,0,6,0,9
+2023,SYR,Syrian Arab Rep.,SWE,Sweden,337,227,7,0,571,47,124,1,0,172,0,743
+2023,SOM,Somalia,NZL,New Zealand,4,10,0,0,14,3,5,0,0,8,0,22
+2023,SOM,Somalia,SWE,Sweden,4,0,0,0,4,1,0,0,0,1,0,5
+2023,AFG,Afghanistan,SVN,Slovenia,11,9,0,0,20,11,9,0,0,20,0,40
+2023,SOM,Somalia,DEU,Germany,101,89,3,0,193,112,70,3,0,185,0,378
+2023,AFG,Afghanistan,CHE,Switzerland,2,0,0,0,2,0,1,0,0,1,0,3
+2023,SYR,Syrian Arab Rep.,ROU,Romania,60,49,1,0,110,88,47,1,0,136,0,246
+2023,IRQ,Iraq,NOR,Norway,8,7,1,0,16,0,4,1,0,5,0,21
+2023,SYR,Syrian Arab Rep.,IRL,Ireland,3,0,0,0,3,4,0,0,0,4,0,7
+2023,SOM,Somalia,FIN,Finland,1,3,1,0,5,1,1,0,0,2,0,7
+2023,IRQ,Iraq,AUS,Australia,19,27,5,0,51,27,23,3,0,53,0,104
+2023,SYR,Syrian Arab Rep.,NOR,Norway,328,306,2,0,636,406,250,0,0,656,0,1292
+2023,IRQ,Iraq,USA,United States of America,51,48,8,0,107,67,60,3,0,130,0,237
+2023,SYR,Syrian Arab Rep.,ESP,Spain,201,198,3,0,402,270,225,7,0,502,0,904
+2023,SYR,Syrian Arab Rep.,BEL,Belgium,34,35,2,0,71,59,41,1,0,101,0,172
+2023,AFG,Afghanistan,FRA,France,28,29,0,0,57,27,6,0,0,33,0,90
+2023,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,117,197,3,0,317,132,27,2,0,161,0,478
+2023,SYR,Syrian Arab Rep.,SVN,Slovenia,22,21,1,0,44,24,19,3,0,46,0,90
+2023,IRQ,Iraq,FIN,Finland,0,2,0,0,2,0,2,1,0,3,0,5
+2023,SYR,Syrian Arab Rep.,BGR,Bulgaria,4,2,0,0,6,4,6,0,0,10,0,16
+2023,IRQ,Iraq,PRT,Portugal,3,2,0,0,5,2,2,0,0,4,0,9
+2023,AFG,Afghanistan,ITA,Italy,89,241,11,0,341,126,105,0,0,231,0,572
+2023,SYR,Syrian Arab Rep.,CHE,Switzerland,103,96,5,0,204,143,74,3,0,220,0,424
+2023,IRQ,Iraq,CAN,Canada,19,27,3,0,49,22,25,1,0,48,0,97
+2023,AFG,Afghanistan,DEU,Germany,193,178,5,0,376,239,125,6,0,370,0,746
+2023,AFG,Afghanistan,AUS,Australia,1222,1858,119,0,3199,1321,1183,55,0,2559,2,5760
+2023,IRQ,Iraq,DEU,Germany,7,7,1,0,15,2,13,0,0,15,0,30
+2023,SOM,Somalia,NOR,Norway,1,4,0,0,5,2,3,0,0,5,0,10
+2023,AFG,Afghanistan,USA,United States of America,342,382,25,0,749,368,479,18,0,865,0,1614
+2023,SYR,Syrian Arab Rep.,CAN,Canada,1272,1092,63,0,2427,1485,1098,35,0,2618,0,5045
+2023,SYR,Syrian Arab Rep.,NLD,Netherlands,54,53,4,0,111,82,50,0,0,132,0,243
+2024,SYR,Syrian Arab Rep.,DEU,Germany,452,402,38,0,892,539,383,19,0,941,0,1833
+2024,SYR,Syrian Arab Rep.,NZL,New Zealand,2,4,0,0,6,7,4,1,0,12,0,18
+2024,SOM,Somalia,NLD,Netherlands,4,7,0,0,11,4,1,0,0,5,0,16
+2024,AFG,Afghanistan,ITA,Italy,0,0,0,0,0,1,0,0,0,1,0,1
+2024,SYR,Syrian Arab Rep.,GBR,United Kingdom of Great Britain and Northern Ireland,2,1,0,0,3,3,1,0,0,4,0,7
+2024,AFG,Afghanistan,FRA,France,53,81,2,0,136,53,2,0,0,55,0,191
+2024,SOM,Somalia,USA,United States of America,94,71,5,0,170,97,81,6,0,184,0,354
+2024,SYR,Syrian Arab Rep.,BGR,Bulgaria,6,7,0,0,13,9,10,0,0,19,0,32
+2024,SYR,Syrian Arab Rep.,ESP,Spain,17,16,0,0,33,21,13,0,0,34,0,67
+2024,SOM,Somalia,JPN,Japan,0,0,0,0,0,0,1,0,0,1,0,1
+2024,SOM,Somalia,DEU,Germany,11,27,0,0,38,27,7,0,0,34,0,72
+2024,IRQ,Iraq,CAN,Canada,1,4,0,0,5,1,4,0,0,5,0,10
+2024,SOM,Somalia,SWE,Sweden,0,2,0,0,2,1,0,0,0,1,0,3
+2024,SYR,Syrian Arab Rep.,NOR,Norway,76,69,1,0,146,76,59,1,0,136,0,282
+2024,AFG,Afghanistan,GBR,United Kingdom of Great Britain and Northern Ireland,2,0,0,0,2,1,0,0,0,1,0,3
+2024,SOM,Somalia,AUS,Australia,1,5,0,0,6,2,2,0,0,4,0,10
+2024,AFG,Afghanistan,USA,United States of America,132,153,7,0,292,135,124,8,0,267,0,559
+2024,SYR,Syrian Arab Rep.,IRL,Ireland,3,0,0,0,3,4,0,0,0,4,0,7
+2024,SYR,Syrian Arab Rep.,FIN,Finland,26,35,0,0,61,31,39,2,0,72,0,133
+2024,SYR,Syrian Arab Rep.,BEL,Belgium,9,13,0,0,22,10,7,0,0,17,0,39
+2024,SYR,Syrian Arab Rep.,USA,United States of America,817,585,43,0,1445,880,601,17,0,1498,0,2943
+2024,SYR,Syrian Arab Rep.,CHE,Switzerland,3,0,0,0,3,1,0,0,0,1,0,4
+2024,SOM,Somalia,NZL,New Zealand,5,5,0,0,10,5,3,0,0,8,0,18
+2024,IRQ,Iraq,USA,United States of America,3,8,0,0,11,7,4,0,0,11,0,22
+2024,AFG,Afghanistan,NOR,Norway,44,36,0,0,80,39,34,0,0,73,0,153
+2024,IRQ,Iraq,DEU,Germany,2,6,0,0,8,4,7,1,0,12,0,20
+2024,SOM,Somalia,CAN,Canada,13,23,6,0,42,17,20,3,0,40,0,82
+2024,AFG,Afghanistan,AUS,Australia,243,464,42,0,749,221,249,16,0,486,0,1235
+2024,AFG,Afghanistan,NZL,New Zealand,22,33,2,0,57,23,36,2,0,61,0,118
+2024,SYR,Syrian Arab Rep.,CAN,Canada,246,204,7,0,457,270,183,6,0,459,0,916
+2024,IRQ,Iraq,AUS,Australia,1,2,0,0,3,1,3,0,0,4,0,7
+2024,AFG,Afghanistan,IRL,Ireland,22,22,0,0,44,23,22,0,0,45,0,89
+2024,SOM,Somalia,GBR,United Kingdom of Great Britain and Northern Ireland,1,0,0,0,1,1,0,0,0,1,0,2
+2024,SOM,Somalia,FIN,Finland,0,0,0,0,0,0,2,0,0,2,0,2
+2024,SYR,Syrian Arab Rep.,AUS,Australia,211,195,9,0,415,125,112,6,0,243,0,658
+2024,SOM,Somalia,BEL,Belgium,4,4,0,0,8,2,2,0,0,4,0,12
+2024,SYR,Syrian Arab Rep.,NLD,Netherlands,143,169,6,0,318,174,167,4,0,345,1,664
+2024,SOM,Somalia,FRA,France,0,2,0,0,2,1,0,0,0,1,0,3
+2024,AFG,Afghanistan,CAN,Canada,72,95,6,0,173,81,63,5,0,149,1,323
+2024,SYR,Syrian Arab Rep.,FRA,France,142,158,12,0,312,175,181,4,0,360,0,672
